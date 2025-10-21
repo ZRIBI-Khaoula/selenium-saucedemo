@@ -1,11 +1,11 @@
+com\automation\e2eTests\utils\SelectFromListUtils.class
+com\automation\e2eTests\utils\ConfigFileReader.class
+com\automation\e2eTests\utils\SQLConnector.class
+com\automation\e2eTests\utils\Validations.class
 com\automation\e2eTests\utils\Setup.class
 com\automation\e2eTests\utils\DateUtil.class
 com\automation\e2eTests\utils\SeleniumUtils.class
 com\automation\e2eTests\utils\UploadFile.class
-com\automation\e2eTests\utils\SelectFromListUtils.class
 com\automation\e2eTests\utils\TearDown.class
-com\automation\e2eTests\utils\ConfigFileReader.class
-com\automation\e2eTests\utils\SQLConnector.class
 com\automation\e2eTests\utils\Wait.class
 com\automation\e2eTests\utils\BasePage.class
-com\automation\e2eTests\utils\Validations.class
